@@ -37,7 +37,8 @@ module.exports = (env, argv) => {
         inject: true,
         name: "PWA text editor",
         short_name: "Text editor",
-        description: "A text editor that allows you to write whatever you want...for whatever reason..."
+        description:
+          "A text editor that allows you to write whatever you want...for whatever reason...",
         background_color: "#225ca3",
         theme_color: "#225ca3",
         start_url: "./",
