@@ -18,8 +18,6 @@ module.exports = (env, argv) => {
     entry: {
       main: "./src/js/index.js",
       install: "./src/js/install.js",
-      database: "./src/js/database.js",
-      editor: "./src/js/editor.js",
       header: "./src/js/header.js",
     },
     output: {
